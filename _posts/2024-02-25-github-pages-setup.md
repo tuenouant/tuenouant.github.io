@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github Pages
+title: Github PagesでWebサイトを作る
 ---
 
 <!-- omit in toc -->

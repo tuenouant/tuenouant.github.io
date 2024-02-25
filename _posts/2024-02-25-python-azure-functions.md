@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Python
+title: Azure Function Appでコードを動かす
 ---
 
 <!-- omit in toc -->
-# Azure Function App でコードを動かす
+# Azure Function Appでコードを動かす
 
 Azure Function Appはサーバーレスでコードを動かすことができるサービスで、AWSでいうところのLambda。<br>
 簡単なAPIとかシンプルなWebサービスを実装したりするのに使えそうな代物である。<br>

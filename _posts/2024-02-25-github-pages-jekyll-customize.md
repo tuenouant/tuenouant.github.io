@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github Pages
+title: Jekyllのカスタマイズ
 ---
 
 <!-- omit in toc -->

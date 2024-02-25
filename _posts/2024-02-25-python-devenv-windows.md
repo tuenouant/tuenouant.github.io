@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python
+title: WindowsでPython開発環境をつくる
 ---
 
 <!-- omit in toc -->
